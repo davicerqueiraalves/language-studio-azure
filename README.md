@@ -1,6 +1,6 @@
 # Estudando o Language Studio
 
-A intenção deste estudo é verificar a capacidade da IA do Language Studio ao analisar textos e identificar estruturas semânticas e os sentimentos/emoções expressos nas frases.
+A intenção deste estudo é verificar a capacidade da IA do Language Studio ao analisar textos e identificar estruturas semânticas e os sentimentos/emoções expressos nas frases. Para isso, será utilizada a ferramente de "Analisar Sentimentos e Opiniões".
 
 Para isso, foram selecionados alguns textos que evocam emoções diferentes, alguns sendo mais curtos e outros sendo mais longos. Segue abaixo os textos escolhidos. 
 
