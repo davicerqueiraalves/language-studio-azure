@@ -1,4 +1,4 @@
-# language-studio-azure
+# Estudando o Language Studio
 
 A intenção deste estudo é verificar a capacidade da IA do Language Studio ao analisar textos e identificar estruturas semânticas e os sentimentos/emoções expressos nas frases.
 
