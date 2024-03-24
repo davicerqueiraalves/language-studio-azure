@@ -23,4 +23,6 @@ When does loyalty shift into worship? Like a line drawn in sand, it exists as we
 5) The afternoon tea service at the Plaza is absolutely delightful. The atmosphere and service are both divine. We so appreciate Kazi J and the rest of the team for making our afternoon truly special. Thank you so much and we will most certainly be back!
 
 
+# Insights
+
 Os resultados foram bem interessantes, visto que a IA consegue reconhecer muito bem as emoções a serem passadas na maioria dos textos. Porém, em textos mais complexos ou com certos paradoxos, a IA não consegue reconhecer de forma precisa o sentimento expresso em tais frases. Isso pode ser percebido nos resultados das análises dos textos 3 e 4 (frase-3.png e frase-4.1.png, respectivamente).
